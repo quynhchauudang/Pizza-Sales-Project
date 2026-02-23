@@ -1,4 +1,4 @@
-# DA-project
+# Pizza Sales Project 
 # 🧮 Pizza Sales Portfolio (SQL + Excel)
 
 This repository contains my analysis of pizza sales data, using **SQL** (MySQL Workbench) and **Excel**.
